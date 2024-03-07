@@ -1,6 +1,6 @@
 import React from 'react'
 
-const aboutus = () => {
+const wallet = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const aboutus = () => {
   )
 }
 
-export default aboutus
+export default wallet

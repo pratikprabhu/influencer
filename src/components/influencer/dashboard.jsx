@@ -1,6 +1,6 @@
 import React from 'react'
 
-const contactus = () => {
+const dashboard = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const contactus = () => {
   )
 }
 
-export default contactus
+export default dashboard
